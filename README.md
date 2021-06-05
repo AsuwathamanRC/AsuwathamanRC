@@ -67,7 +67,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-alfreddagenais.vercel.app/api/spotify-playing" alt="Alfred Dagenais Spotify Playing" width="350" />](https://open.spotify.com/user/223z2erxpsvvicijn6b4h46uy)
+[<img src="https://now-playing-alfreddagenais.vercel.app/api/spotify-playing" alt="Alfred Dagenais Spotify Playing" width="350" />](https://open.spotify.com/playlist/0tMhOKk1P5jjFg1MUjtmpf?si=731612e401014c1b)
   
 
 <br/>  
